@@ -1,2 +1,2 @@
-# brainfuck-
+# brainfuckpp
 brainfuck解释器
